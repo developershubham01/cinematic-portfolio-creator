@@ -90,7 +90,6 @@ export default function ServicesSection({ services, limit }: ServicesSectionProp
             {item.description}
           </p>
 
-          {/* Features list */}
           <ul className="text-[10px] text-text-muted/70 font-body space-y-1.5 mb-6">
             {item.features.slice(0, 3).map((feat, idx) => (
               <li key={idx} className="flex items-center gap-1.5">
@@ -105,7 +104,11 @@ export default function ServicesSection({ services, limit }: ServicesSectionProp
           <div>
             <span className="text-[9px] text-white/40 block font-heading tracking-widest">STARTING AT</span>
             <span className="text-base text-accent font-bebas tracking-wide font-semibold">
-              ₹{item.startingPrice.toLocaleString()}
+              {item.startingPrice.toLocaleString('en-IN', {
+                style: 'currency',
+                currency: 'INR',
+                maximumFractionDigits: 0
+              })}
             </span>
           </div>
           <Link
