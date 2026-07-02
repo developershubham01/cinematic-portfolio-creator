@@ -1,0 +1,286 @@
+[
+  {
+    "id": 1001,
+    "name": "Silver Package",
+    "category": "Wedding",
+    "price": "49,999",
+    "currency": "₹",
+    "features": [
+      "1 Candid Photographer",
+      "1 Traditional Videographer",
+      "Up to 8 Hours Coverage",
+      "350+ Color Corrected Images",
+      "Standard HD Highlight Video (3 min)"
+    ],
+    "duration": "1 Day",
+    "deliverables": "Digital Link + Hard Copy Album (40 Pages)",
+    "popular": false
+  },
+  {
+    "id": 1002,
+    "name": "Gold Package",
+    "category": "Wedding",
+    "price": "99,999",
+    "currency": "₹",
+    "features": [
+      "1 Candid Photographer",
+      "1 Senior Cinematographer",
+      "1 Traditional Photographer",
+      "Up to 12 Hours Coverage",
+      "500+ Fully Retouched Images",
+      "Cinematic Teaser (1 min) + Highlight (5 min)",
+      "Premium Leather Album (60 Pages)"
+    ],
+    "duration": "1 Day",
+    "deliverables": "USB Drive + Premium Leather Album + Online Gallery",
+    "popular": false
+  },
+  {
+    "id": 1003,
+    "name": "Premium Package",
+    "category": "Wedding",
+    "price": "1,99,999",
+    "currency": "₹",
+    "features": [
+      "2 Candid Photographers",
+      "2 Senior Cinematographers",
+      "1 Drone Cinematographer (DJI)",
+      "Full 2 Days Coverage",
+      "800+ Signature Retouched Images",
+      "Full Cinematic Film (25 min)",
+      "Same-day Edit Teaser (1 min)",
+      "2 Premium Luxury Albums (80 Pages each)"
+    ],
+    "duration": "2 Days",
+    "deliverables": "Luxury Boxed USB + 2 Albums + Live Streaming",
+    "popular": true
+  },
+  {
+    "id": 1004,
+    "name": "Luxury Package",
+    "category": "Wedding",
+    "price": "4,99,999",
+    "currency": "₹",
+    "features": [
+      "Directed by Nitin Kewat",
+      "3 Candid Photographers & 3 Cinematographers",
+      "FPV & Cinematic Drone (Inspire 3)",
+      "Full 3 Days Coverage (Destination)",
+      "1500+ Luxury Master Retouched Images",
+      "Full Film (45 min) + Cinema Trailer (4 min)",
+      "Same-day Edit Reels (3 items)",
+      "3 Custom Designer Velvet Albums"
+    ],
+    "duration": "3 Days",
+    "deliverables": "Exclusive Keepsake Boxed SSD + Raw Files + 4K HDR Digital Link",
+    "popular": false
+  },
+  {
+    "id": 2001,
+    "name": "Basic Corporate",
+    "category": "Corporate",
+    "price": "29,999",
+    "currency": "₹",
+    "features": [
+      "1 Photographer (4 hours)",
+      "Candid Event & Speaker Shots",
+      "100+ Edited Images",
+      "Delivery within 3 days",
+      "Commercial Usage License"
+    ],
+    "duration": "Half Day",
+    "deliverables": "High-Res Digital Link",
+    "popular": false
+  },
+  {
+    "id": 2002,
+    "name": "Standard Corporate",
+    "category": "Corporate",
+    "price": "59,999",
+    "currency": "₹",
+    "features": [
+      "2 Photographers (8 hours)",
+      "Corporate Headshots (Up to 15 team members)",
+      "300+ Edited Images",
+      "2-minute Highlight Video Promo",
+      "Full Commercial & Web License"
+    ],
+    "duration": "Full Day",
+    "deliverables": "Digital Link + Video Promo File",
+    "popular": true
+  },
+  {
+    "id": 2003,
+    "name": "Premium Corporate",
+    "category": "Corporate",
+    "price": "1,19,999",
+    "currency": "₹",
+    "features": [
+      "2 Photographers & 2 Videographers (Full Day)",
+      "Drone Coverage (Interior & Exterior)",
+      "Corporate Film (5 min) + Teaser",
+      "Unlimited Headshots",
+      "Priority Delivery (48 Hours)",
+      "Full Copyright Broadcast License"
+    ],
+    "duration": "Full Day + Editing",
+    "deliverables": "Dedicated Cloud Drive + 4K Video Masters",
+    "popular": false
+  },
+  {
+    "id": 3001,
+    "name": "Solo Portfolio",
+    "category": "Fashion",
+    "price": "19,999",
+    "currency": "₹",
+    "features": [
+      "Studio or Outdoor Location",
+      "3 Outfit Looks",
+      "15 High-End Retouched Images",
+      "All Unedited RAW files",
+      "Model Comp Card Design"
+    ],
+    "duration": "4 Hours",
+    "deliverables": "Digital Comp Card + High-Res Images",
+    "popular": false
+  },
+  {
+    "id": 3002,
+    "name": "Duo / Lookbook",
+    "category": "Fashion",
+    "price": "39,999",
+    "currency": "₹",
+    "features": [
+      "Up to 2 Models Coverage",
+      "6 Outfit Looks",
+      "40 Signature High-End Retouched Images",
+      "Behind-the-scenes Instagram Reel",
+      "Digital Lookbook Design"
+    ],
+    "duration": "Full Day",
+    "deliverables": "Digital Lookbook + Social Ready Reel",
+    "popular": true
+  },
+  {
+    "id": 3003,
+    "name": "Editorial Campaign",
+    "category": "Fashion",
+    "price": "79,999",
+    "currency": "₹",
+    "features": [
+      "Advanced Concept Direction by Nitin Kewat",
+      "Unlimited Looks (10 Hours)",
+      "75 Luxury High-End Retouched Images",
+      "4K Cinematic Editorial Video Teaser (60s)",
+      "Print Magazine Ready Formats",
+      "Commercial Rights"
+    ],
+    "duration": "Full Day + Video Shoot",
+    "deliverables": "SSD Masters + Print Files + Cinematic Reel",
+    "popular": false
+  },
+  {
+    "id": 4001,
+    "name": "E-Commerce Pack",
+    "category": "Product",
+    "price": "24,999",
+    "currency": "₹",
+    "features": [
+      "Up to 20 Products Coverage",
+      "White Background Studio Setup",
+      "3 Angles per Product",
+      "All Web-ready Transparent PNGs",
+      "Complimentary Basic Shadow Editing"
+    ],
+    "duration": "1 Day",
+    "deliverables": "Digital Link with Transparent & White Formats",
+    "popular": false
+  },
+  {
+    "id": 4002,
+    "name": "Creative Editorial Product",
+    "category": "Product",
+    "price": "49,999",
+    "currency": "₹",
+    "features": [
+      "Up to 10 Products Coverage",
+      "Styled Props & Creative Backdrops",
+      "5 Styled Creative Angles per Product",
+      "1 Cinematic Product Video (30s)",
+      "High-end Retouching (Dirt/Dust removal)"
+    ],
+    "duration": "1 Day",
+    "deliverables": "Digital Link + Creative Video Master",
+    "popular": true
+  },
+  {
+    "id": 4003,
+    "name": "Enterprise Product Campaign",
+    "category": "Product",
+    "price": "99,999",
+    "currency": "₹",
+    "features": [
+      "Unlimited Products Coverage (2 Days)",
+      "Model Styling and Lifestyle Placement",
+      "All Creative & Web Catalog Formats",
+      "3 Cinematic Product Video Ads (15s, 30s, 60s)",
+      "Commercial Print & Digital Ads License"
+    ],
+    "duration": "2 Days",
+    "deliverables": "High-Res Cloud Drive + Video Ads Masters",
+    "popular": false
+  },
+  {
+    "id": 5001,
+    "name": "Basic Drone Shoot",
+    "category": "Drone",
+    "price": "14,999",
+    "currency": "₹",
+    "features": [
+      "Licensed DJI Pilot",
+      "Up to 2 Hours Flight Time",
+      "15 High-Res Raw Photos (48MP)",
+      "Basic 4K Video Clips (10 min Raw)",
+      "Permissions included"
+    ],
+    "duration": "2 Hours",
+    "deliverables": "Digital Link with RAW files",
+    "popular": false
+  },
+  {
+    "id": 5002,
+    "name": "Cinematic Drone Package",
+    "category": "Drone",
+    "price": "34,999",
+    "currency": "₹",
+    "features": [
+      "DJI Mavic 4 Pro / FPV Drone",
+      "Up to 5 Hours Flight Time",
+      "30 High-Res Photos",
+      "Edited 2-minute Cinematic Aerial Video",
+      "Color-Graded ProRes Footage",
+      "FPV Flythrough of Site / Villa"
+    ],
+    "duration": "Half Day",
+    "deliverables": "Digital Link + Grad Cinematic Video File",
+    "popular": true
+  },
+  {
+    "id": 5003,
+    "name": "Inspire 3 Hollywood Aerials",
+    "category": "Drone",
+    "price": "99,999",
+    "currency": "₹",
+    "features": [
+      "DJI Inspire 3 Dual Operator Setup",
+      "Full Day Flight Coverage",
+      "8K CinemaDNG / Apple ProRes RAW output",
+      "Master Camera & Gimbal Operator",
+      "Extreme FPV Pursuit Footage",
+      "Commercial Film & Broadcast License"
+    ],
+    "duration": "Full Day",
+    "deliverables": "High-Speed SSD with CinemaDNG RAW files",
+    "popular": false
+  }
+]

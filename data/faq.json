@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "question": "How do I book a shoot with you?",
+    "answer": "You can book a shoot by filling out the contact form on our website, sending an email to hello@arjunkapoor.com, or messaging us on WhatsApp at +91-9876543210. We will schedule a brief consultation call to understand your requirements, date preference, and creative vision.",
+    "category": "Booking"
+  },
+  {
+    "id": 2,
+    "question": "How far in advance should I book my wedding photographer?",
+    "answer": "We recommend booking 6 to 12 months in advance, especially for peak wedding seasons (October to February). This ensures our availability on your dates and gives us ample time to prepare storyboard concepts and mood boards.",
+    "category": "Booking"
+  },
+  {
+    "id": 3,
+    "question": "Do you offer pre-shoot consultations?",
+    "answer": "Yes, absolutely. We organize a consultation meeting (in-person or video call) for every client to align on mood boards, outfits, location scouting, specific shot lists, and the overall narrative of the shoot.",
+    "category": "Booking"
+  },
+  {
+    "id": 4,
+    "question": "What is your payment schedule?",
+    "answer": "To secure your booking date, we require a 50% non-refundable advance fee. The remaining 30% is due on the first day of the shoot, and the final 20% must be paid upon delivery of the final high-resolution images/videos.",
+    "category": "Payment"
+  },
+  {
+    "id": 5,
+    "question": "Are taxes and travel expenses included in the package prices?",
+    "answer": "Our pricing packages are base rates. Local GST (18%) and travel/accommodation costs for destinations outside Mumbai are charged additionally based on actual expenditures.",
+    "category": "Payment"
+  },
+  {
+    "id": 6,
+    "question": "What payment methods do you accept?",
+    "answer": "We accept bank transfers (NEFT/RTGS/IMPS), UPI payments, credit/debit cards, and corporate checks.",
+    "category": "Payment"
+  },
+  {
+    "id": 7,
+    "question": "What is your cancellation and rescheduling policy?",
+    "answer": "The initial 50% booking advance is non-refundable, as we block that date and refuse other projects. However, you can reschedule the shoot to any available open date within 6 months of the original date, provided you notify us at least 15 days in advance.",
+    "category": "Cancellation"
+  },
+  {
+    "id": 8,
+    "question": "What happens if you have to cancel the shoot due to an emergency?",
+    "answer": "In the extremely rare event of a medical emergency or force majeure, we will first attempt to assign an equally qualified associate photographer from our core team. If this is not acceptable to you, we will issue a full 100% refund of all amounts paid.",
+    "category": "Cancellation"
+  },
+  {
+    "id": 9,
+    "question": "What is the cancellation policy for destination weddings?",
+    "answer": "For destination shoots, if flights or hotels have already been booked and are non-refundable, the client must bear those costs. Any remaining advance amount can be held as credit for future shoots.",
+    "category": "Cancellation"
+  },
+  {
+    "id": 10,
+    "question": "Do you travel for shoots outside Mumbai/India?",
+    "answer": "Yes, we are highly experienced destination photographers and videographers. We shoot globally and have covered projects in 30+ countries including Italy, France, Switzerland, Kenya, and Thailand.",
+    "category": "Travel"
+  },
+  {
+    "id": 11,
+    "question": "Who arranges travel and stay for the team?",
+    "answer": "For shoots outside Mumbai, the client is responsible for booking and paying for flights, local transfers, and hotel stay for our team (normally 2 to 6 crew members depending on the package). Alternatively, we can book it ourselves and invoice you the actuals.",
+    "category": "Travel"
+  },
+  {
+    "id": 12,
+    "question": "Do you have a valid passport and international drone permit?",
+    "answer": "Yes, all core crew members have valid passports. Drone laws vary by country; we handle local drone permit applications for each country where operations are legally allowed.",
+    "category": "Travel"
+  },
+  {
+    "id": 13,
+    "question": "How long does it take to deliver the final photos and videos?",
+    "answer": "For portrait, fashion, and product shoots, delivery takes 5 to 7 working days. For corporate events, it takes 48 to 72 hours. For weddings, the digital photo gallery is delivered in 4 to 6 weeks, and the cinematic films in 8 to 10 weeks.",
+    "category": "Delivery"
+  },
+  {
+    "id": 14,
+    "question": "How do you deliver the final photos and videos?",
+    "answer": "We deliver final files via a secure, password-protected online client gallery (Pixieset/Frame.io) where you can view, share, and download in full resolution. For high-end luxury packages, we also mail a keepsake wooden box containing an SSD.",
+    "category": "Delivery"
+  },
+  {
+    "id": 15,
+    "question": "Do you back up the files in case I lose my link?",
+    "answer": "Yes, we maintain redundant secure cloud and local NAS backups of all edited project files for 2 years from the date of the shoot. We can re-share the link if you lose it, free of charge.",
+    "category": "Delivery"
+  },
+  {
+    "id": 16,
+    "question": "Do you provide unedited RAW photos or video footage?",
+    "answer": "By default, we do not deliver unedited RAW photos or raw video footage. We believe that professional editing and color grading is 50% of the creative process and defines our signature style. However, raw video files can be purchased as an add-on for commercial/corporate clients.",
+    "category": "RAW Photos"
+  },
+  {
+    "id": 17,
+    "question": "Can I buy the RAW files later if I change my mind?",
+    "answer": "Yes, you can purchase the entire set of RAW images or raw video rushes on an external hard drive within 60 days of the shoot for an additional raw file transfer fee.",
+    "category": "RAW Photos"
+  },
+  {
+    "id": 18,
+    "question": "How do you select which photos to edit?",
+    "answer": "We curate the best frames based on expression, composition, and emotional impact. We cull duplicate shots, test shots, or blinking shots, ensuring you only receive high-quality, polished images.",
+    "category": "RAW Photos"
+  },
+  {
+    "id": 19,
+    "question": "What kind of editing do you do on the photos?",
+    "answer": "Our standard editing includes color correction, exposure adjustment, highlight/shadow balancing, and color grading in our signature style. High-end portrait, fashion, and jewelry packages also include premium skin blemishes retouching and object removal.",
+    "category": "Editing"
+  },
+  {
+    "id": 20,
+    "question": "Can I request changes to the color grading or photo edits?",
+    "answer": "Yes, we include up to two rounds of revisions for edited photos and wedding films. Any request for revisions must be made within 14 days of file delivery.",
+    "category": "Editing"
+  },
+  {
+    "id": 21,
+    "question": "Do you do photoshop body modification or morphing?",
+    "answer": "No, we do not offer body reshaping, digital face-swaps, or morphing. We promote natural authenticity and edit to clean blemishes and improve lighting while maintaining your true likeness.",
+    "category": "Editing"
+  },
+  {
+    "id": 22,
+    "question": "Are you licensed to fly drones in India?",
+    "answer": "Yes, Nitin Kewat and our aerial crew are DGCA-certified drone pilots. We fly registered UIN drones and strictly follow the digital sky platform zone rules (Green/Yellow/Red).",
+    "category": "Drone"
+  },
+  {
+    "id": 23,
+    "question": "What happens if a location is in a Red/No-Fly Zone?",
+    "answer": "If a location is in a Red Zone (near airports or defense facilities), we will not fly the drone as it is illegal. We will instead look for creative ground-level angles, jib/crane alternatives, or hand-held gimble shots.",
+    "category": "Drone"
+  },
+  {
+    "id": 24,
+    "question": "Can you fly drones inside indoor banquet halls?",
+    "answer": "We only fly small micro/FPV drones inside banquet halls, provided the venue has high ceilings and allows it. Safety of your guests is our absolute priority.",
+    "category": "Drone"
+  },
+  {
+    "id": 25,
+    "question": "Who owns the copyright to the photos and videos?",
+    "answer": "Under standard copyright law, Nitin Kewat (the photographer/creator) owns the copyright. However, you are granted a personal usage license to print, share, and post the images online.",
+    "category": "Copyright"
+  },
+  {
+    "id": 26,
+    "question": "Will you use my photos on your website or social media?",
+    "answer": "As a portfolio-based business, we showcase our work on our website, social channels, and in photography submissions. If you require absolute privacy, we offer a 'Non-Disclosure' add-on fee (typically 20% of package cost) to withhold all imagery from public view.",
+    "category": "Copyright"
+  },
+  {
+    "id": 27,
+    "question": "Can I submit the photos you took to magazines or blogs?",
+    "answer": "Yes, but you must mention 'AK Studios by Nitin Kewat' as the photographer. If a magazine wants commercial print rights, they must contact us for licensing.",
+    "category": "Copyright"
+  },
+  {
+    "id": 28,
+    "question": "What commercial rights are included for corporate/product clients?",
+    "answer": "For corporate, fashion, and product shoots, the base price includes a digital marketing and website license. Print advertising, television, or outdoor billboard rights can be added as a license extension.",
+    "category": "Commercial Rights"
+  },
+  {
+    "id": 29,
+    "question": "Can I use the wedding photos for a commercial ad for my outfit designer?",
+    "answer": "No. The license granted for weddings is strictly personal. If your bridal designer, makeup artist, or venue wants to use the photos for commercial promotion, they must purchase a commercial usage license from us.",
+    "category": "Commercial Rights"
+  },
+  {
+    "id": 30,
+    "question": "Do you provide model releases for commercial shoots?",
+    "answer": "For fashion and commercial campaigns, the client is responsible for obtaining model releases. We can provide standard release templates if required.",
+    "category": "Commercial Rights"
+  }
+]

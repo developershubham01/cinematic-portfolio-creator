@@ -1,0 +1,126 @@
+[
+  {
+    "id": 1,
+    "name": "Rohan & Priya Malhotra",
+    "role": "Bride & Groom",
+    "company": "Wedding Client",
+    "text": "Arjun and his team are magicians! They captured our Jodhpur palace wedding so beautifully. The cinematic highlight film felt like a Bollywood movie, and the photos are breathtaking. The same-day edit trailer blew our guests away!",
+    "rating": 5,
+    "image": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=200&q=80",
+    "date": "2024-11-20",
+    "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ"
+  },
+  {
+    "id": 2,
+    "name": "Vikram Sen",
+    "role": "Brand Manager",
+    "company": "BMW India",
+    "text": "We hired Arjun for the print and video ads of the new BMW X5 campaign. His technical skills with vehicle tracking rigs and cinematic lighting are world-class. Absolute professional who delivered premium quality within tight deadlines.",
+    "rating": 5,
+    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=200&q=80",
+    "date": "2024-08-10",
+    "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ"
+  },
+  {
+    "id": 3,
+    "name": "Nisha Mehta",
+    "role": "Creative Director",
+    "company": "Vogue India",
+    "text": "Arjun's sense of composition and light control on the heritage fashion shoot was extraordinary. He brought a great balance of modern styling and traditional depth to the frames. The editorial layouts looked stunning.",
+    "rating": 5,
+    "image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=200&q=80",
+    "date": "2024-02-05"
+  },
+  {
+    "id": 4,
+    "name": "Aditya & Sneha Rao",
+    "role": "Bride & Groom",
+    "company": "Destination Wedding",
+    "text": "We did our pre-wedding shoot in Amalfi and our wedding in Goa. Having Arjun direct the visuals was the best decision. He scouted the best angles, managed the drone operations perfectly, and made us feel so comfortable.",
+    "rating": 5,
+    "image": "https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?w=200&q=80",
+    "date": "2024-07-02"
+  },
+  {
+    "id": 5,
+    "name": "Kunal Kapoor",
+    "role": "Founder",
+    "company": "AK Villa Design",
+    "text": "We wanted premium video tours and architectural shots of our luxury villas in Alibaug. Arjun's lighting capture and smooth drone transitions made the properties look incredibly premium. Our sales inquiries went up by 40% after posting.",
+    "rating": 5,
+    "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=200&q=80",
+    "date": "2024-05-30"
+  },
+  {
+    "id": 6,
+    "name": "Sarah Jenkins",
+    "role": "Travel Editor",
+    "company": "NatGeo Traveller",
+    "text": "Arjun's drone photography and landscape captures of Ladakh are fine art pieces. His patience in capturing the perfect light shows in every high-resolution frame. We are proud to feature his work on our cover.",
+    "rating": 5,
+    "image": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=200&q=80",
+    "date": "2024-03-25"
+  },
+  {
+    "id": 7,
+    "name": "David Miller",
+    "role": "Marketing Head",
+    "company": "Tanishq",
+    "text": "Jewelry photography requires extreme precision and light reflection management. Arjun's macro focus-stacking work for our bridal jewelry collection was immaculate. Every gemstone and gold carve was perfectly sharp.",
+    "rating": 5,
+    "image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=200&q=80",
+    "date": "2024-04-18"
+  },
+  {
+    "id": 8,
+    "name": "Aman & Pooja Varma",
+    "role": "Parents",
+    "company": "Maternity Client",
+    "text": "A beautiful, stress-free experience. Arjun's studio was warm and perfect for the baby shoot. He was extremely patient with our little one and captured expressions we will cherish forever.",
+    "rating": 5,
+    "image": "https://images.unsplash.com/photo-1508214751196-bcfd4ca60f91?w=200&q=80",
+    "date": "2024-06-10"
+  },
+  {
+    "id": 9,
+    "name": "Kabir Thapar",
+    "role": "Musician",
+    "company": "Independent Artist",
+    "text": "Shot my music video on RED Komodo with Arjun. The visual style, low light grading, and foley sound design came out amazing. It reached 2M+ views on YouTube within a month! Arjun is highly recommended for artists.",
+    "rating": 5,
+    "image": "https://images.unsplash.com/photo-1489980508314-941910ded1f4?w=200&q=80",
+    "date": "2024-01-15",
+    "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ"
+  },
+  {
+    "id": 10,
+    "name": "Meera Joshi",
+    "role": "Operations Director",
+    "company": "TechSummit Global",
+    "text": "Hired AK Studios for our corporate conference event coverage. They provided seamless photography, executive headshots, and a 2-minute recap reel within 48 hours. Exceptional speed and premium standard.",
+    "rating": 5,
+    "image": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=200&q=80",
+    "date": "2023-09-26"
+  },
+  {
+    "id": 11,
+    "name": "Gaurav Malhotra",
+    "role": "Owner",
+    "company": "Marriott Luxury Suites",
+    "text": "The promotional resort films Arjun shot for our Goa property were breath-taking. The transition sequences between day and night were stunning, highlighting the infinity pool and dining areas beautifully.",
+    "rating": 5,
+    "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=200&q=80",
+    "date": "2023-10-12",
+    "videoUrl": "https://www.youtube.com/embed/dQw4w9WgXcQ"
+  },
+  {
+    "id": 12,
+    "name": "Ananya Roy",
+    "role": "Chef & Owner",
+    "company": "Plate & Palate",
+    "text": "Outstanding food styling and menu photography. Arjun made our signature dishes look mouth-watering. The detail of steam rising from the hot plates was captured perfectly. Highly creative team.",
+    "rating": 4,
+    "image": "https://images.unsplash.com/photo-1534751516642-a131ffd103fd?w=200&q=80",
+    "date": "2023-11-05"
+  }
+]

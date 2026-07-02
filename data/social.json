@@ -1,0 +1,53 @@
+{
+  "social": {
+    "whatsapp": "+919876543210",
+    "instagram": "https://instagram.com/arjunkapoor.photography",
+    "facebook": "https://facebook.com/ArjunKapoorPhotography",
+    "youtube": "https://youtube.com/ArjunKapoorFilms",
+    "linkedin": "https://linkedin.com/in/arjunkapoorphotography",
+    "behance": "https://behance.net/arjunkapoor",
+    "pinterest": "https://pinterest.com/arjunkapoorvisuals"
+  },
+  "contact": {
+    "email": "hello@arjunkapoor.com",
+    "phone": "+91 98765 43210",
+    "emergencyPhone": "+91 98765 43211",
+    "studio": {
+      "name": "AK Studios",
+      "address": "42, Film City Road, Goregaon East",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "zip": "400065",
+      "country": "India",
+      "coordinates": { "lat": 19.1663, "lng": 72.8526 }
+    },
+    "workingHours": {
+      "weekdays": "10:00 AM - 7:00 PM",
+      "saturday": "10:00 AM - 5:00 PM",
+      "sunday": "By Appointment Only"
+    }
+  },
+  "instagram": {
+    "handle": "@arjunkapoor.photography",
+    "followers": "125K",
+    "posts": [
+      { "id": 1, "image": "https://images.unsplash.com/photo-1519741497674-611481863552?w=400&q=80", "likes": 2340, "type": "photo" },
+      { "id": 2, "image": "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?w=400&q=80", "likes": 1890, "type": "photo" },
+      { "id": 3, "image": "https://images.unsplash.com/photo-1606216794074-735e91aa2c92?w=400&q=80", "likes": 3100, "type": "reel" },
+      { "id": 4, "image": "https://images.unsplash.com/photo-1583939003579-730e3918a45a?w=400&q=80", "likes": 1560, "type": "photo" },
+      { "id": 5, "image": "https://images.unsplash.com/photo-1464366400600-7168b8af9bc3?w=400&q=80", "likes": 2780, "type": "reel" },
+      { "id": 6, "image": "https://images.unsplash.com/photo-1537633552985-df8429e8048b?w=400&q=80", "likes": 1920, "type": "photo" }
+    ]
+  },
+  "youtube": {
+    "channel": "Nitin Kewat Films",
+    "subscribers": "45.2K",
+    "totalViews": "10M+",
+    "videos": [
+      { "id": "video1", "youtubeId": "dQw4w9WgXcQ", "title": "Cinematic Wedding Film - Rahul & Priya", "views": "1.2M", "thumbnail": "https://images.unsplash.com/photo-1519741497674-611481863552?w=600&q=80" },
+      { "id": "video2", "youtubeId": "dQw4w9WgXcQ", "title": "Travel Film - Swiss Alps Adventure", "views": "890K", "thumbnail": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?w=600&q=80" },
+      { "id": "video3", "youtubeId": "dQw4w9WgXcQ", "title": "Commercial - BMW X5 Launch", "views": "2.1M", "thumbnail": "https://images.unsplash.com/photo-1555215695-3004980ad54e?w=600&q=80" },
+      { "id": "video4", "youtubeId": "dQw4w9WgXcQ", "title": "Behind the Scenes - Fashion Shoot", "views": "450K", "thumbnail": "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?w=600&q=80" }
+    ]
+  }
+}

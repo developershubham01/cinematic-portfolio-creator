@@ -1,0 +1,302 @@
+[
+  {
+    "id": 1,
+    "name": "Wedding Photography",
+    "category": "photography",
+    "description": "Premium documentary and fine-art style wedding photography, capturing raw emotions and grand celebrations.",
+    "features": ["2 Senior Photographers", "Unlimited Candid & Traditional Photos", "Signature Hardcover Leather Album (100 pages)", "High-Resolution Edited Digital Gallery", "Online Sharing Link (1-year validity)"],
+    "startingPrice": 75000,
+    "icon": "Camera",
+    "image": "https://images.unsplash.com/photo-1519741497674-611481863552?w=600&q=80"
+  },
+  {
+    "id": 2,
+    "name": "Pre-Wedding Shoot",
+    "category": "photography",
+    "description": "Creative outdoor couple portrait sessions at spectacular locations with custom outfit styling and mood boards.",
+    "features": ["1 Day Shoot (Up to 8 hours)", "3 Location Outfits", "50 Fully Retouched Signature Images", "Complimentary 1-minute Cinematic Teaser", "Location Consultation"],
+    "startingPrice": 35000,
+    "icon": "Heart",
+    "image": "https://images.unsplash.com/photo-1464366400600-7168b8af9bc3?w=600&q=80"
+  },
+  {
+    "id": 3,
+    "name": "High Fashion Editorial",
+    "category": "photography",
+    "description": "High-fashion lookbook, magazine cover story, or model portfolio shoots with advanced studio lighting setups.",
+    "features": ["Full Studio or On-Location Setup", "High-End Beauty Retouching", "Creative Direction & Mood Boarding", "Digital Delivery within 5 days", "Commercial Rights"],
+    "startingPrice": 50000,
+    "icon": "Sparkles",
+    "image": "https://images.unsplash.com/photo-1509631179647-0177331693ae?w=600&q=80"
+  },
+  {
+    "id": 4,
+    "name": "Fine Art Portraiture",
+    "category": "photography",
+    "description": "Expressive fine art portraits focusing on shadow, depth, and character. Suitable for artists, actors, and collectors.",
+    "features": ["Individual Session (3 hours)", "Premium Studio Lighting & Backdrops", "15 Custom Giclee Fine Art Prints", "Digital Files Included", "Complete Retouching"],
+    "startingPrice": 25000,
+    "icon": "User",
+    "image": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=600&q=80"
+  },
+  {
+    "id": 5,
+    "name": "Street & Travel Photography",
+    "category": "photography",
+    "description": "Documentary and destination travel photography showcasing cultures, landscapes, and street aesthetics.",
+    "features": ["Destination Scouting", "Editorial Travel Licensing", "High-Resolution Color Graded Prints", "Digital Licensing Rights"],
+    "startingPrice": 40000,
+    "icon": "Compass",
+    "image": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?w=600&q=80"
+  },
+  {
+    "id": 6,
+    "name": "Commercial Product Shoot",
+    "category": "photography",
+    "description": "High-fidelity macro product photography for e-commerce, advertising campaigns, and social media showcase.",
+    "features": ["Studio Macro & Detail Shots", "Ghost Mannequin / Flat Lay Option", "Advanced Reflection & Shadow Control", "Web & Print Ready Files", "Color Matching Accuracy"],
+    "startingPrice": 30000,
+    "icon": "Package",
+    "image": "https://images.unsplash.com/photo-1546868871-7041f2a55e12?w=600&q=80"
+  },
+  {
+    "id": 7,
+    "name": "Architectural & Interior Shoot",
+    "category": "photography",
+    "description": "Premium real estate and architectural design shoots highlighting spaces, layouts, structural details, and lighting.",
+    "features": ["Interior & Exterior Coverage", "HDR & Exposure Bracketed Blending", "Wide-Angle & Tilt-Shift Correction", "Twilight Exterior Shoot Included", "Commercial Marketing License"],
+    "startingPrice": 45000,
+    "icon": "Home",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=600&q=80"
+  },
+  {
+    "id": 8,
+    "name": "Drone Aerial Photography",
+    "category": "photography",
+    "description": "High-altitude 48MP aerial photography for landscapes, property surveys, and events using licensed DJI equipment.",
+    "features": ["DGCA Certified Pilot", "High-Resolution 48MP Raw Aerials", "Dynamic Angles & Top-Down Patterns", "Permits & Safety Compliance Handling"],
+    "startingPrice": 20000,
+    "icon": "Wind",
+    "image": "https://images.unsplash.com/photo-1508672019048-805c876b67e2?w=600&q=80"
+  },
+  {
+    "id": 9,
+    "name": "Luxury Automobile Shoot",
+    "category": "photography",
+    "description": "Dynamic rolling shots, racetrack coverage, and studio detail shoots for luxury and sports vehicles.",
+    "features": ["Rig-Shots & Rolling Rig Coverage", "High-Speed Camera Car Support", "Interior & Engine Detail Focus", "Advanced Light Painting Techniques"],
+    "startingPrice": 50000,
+    "icon": "Car",
+    "image": "https://images.unsplash.com/photo-1555215695-3004980ad54e?w=600&q=80"
+  },
+  {
+    "id": 10,
+    "name": "Corporate Headshots",
+    "category": "photography",
+    "description": "Professional headshots for executives, founders, and teams, matching company brand guidelines.",
+    "features": ["On-site Studio Mobile Setup", "Individual Lighting Customization", "Expression Coaching", "Quick Turnaround (48 hours)", "Commercial Use License"],
+    "startingPrice": 15000,
+    "icon": "Briefcase",
+    "image": "https://images.unsplash.com/photo-1511578314322-379afb476865?w=600&q=80"
+  },
+  {
+    "id": 11,
+    "name": "Food & Gastronomy",
+    "category": "photography",
+    "description": "Editorial food styling and restaurant menu photography showcasing texture, freshness, and culinary art.",
+    "features": ["Food Stylist Consultation", "Studio Light & Macro Coverage", "Action Shots (Pouring, Flambé, Splashing)", "Commercial Use Rights"],
+    "startingPrice": 25000,
+    "icon": "Coffee",
+    "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=600&q=80"
+  },
+  {
+    "id": 12,
+    "name": "Maternity & Newborn Shoot",
+    "category": "photography",
+    "description": "Comfortable, warm, and beautiful portrait sessions capturing motherhood journey and newborn milestones.",
+    "features": ["Temperature-Controlled Cozy Studio", "Safe & Sanitized Props", "Creative Custom Themes", "Digital Family Portraits Included"],
+    "startingPrice": 20000,
+    "icon": "Smile",
+    "image": "https://images.unsplash.com/photo-1537633552985-df8429e8048b?w=600&q=80"
+  },
+  {
+    "id": 13,
+    "name": "Fine Art Jewelry Shoot",
+    "category": "photography",
+    "description": "Extreme macro photography for high-value diamonds, gold ornaments, and luxury watch brands.",
+    "features": ["Focus Stacking for Infinite Depth of Field", "Reflective Sparkle Controls", "High-End Retouching (Dirt/Scratch Removal)", "Print Banner Resolutions"],
+    "startingPrice": 60000,
+    "icon": "Gem",
+    "image": "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=600&q=80"
+  },
+  {
+    "id": 14,
+    "name": "Wildlife Fine Art Prints",
+    "category": "photography",
+    "description": "Stunning high-resolution prints of wildlife and nature, custom-shot for exhibition display and interiors.",
+    "features": ["Ultra High-Res Museum Grade Capture", "Limited Edition Signed Print Series", "Canvas & Archival Framing Options", "Exclusive Custom License"],
+    "startingPrice": 45000,
+    "icon": "Eye",
+    "image": "https://images.unsplash.com/photo-1546182990-dffeafbe841d?w=600&q=80"
+  },
+  {
+    "id": 15,
+    "name": "Luxury Event Coverage",
+    "category": "photography",
+    "description": "High-profile red carpet, concerts, pageants, and festival coverage with fast social-ready delivery.",
+    "features": ["Social Media Real-Time Highlights", "Multiple Angle Photographers", "Backstage & VIP Coverage", "Press & PR Package Output"],
+    "startingPrice": 50000,
+    "icon": "Star",
+    "image": "https://images.unsplash.com/photo-1511578314322-379afb476865?w=600&q=80"
+  },
+  {
+    "id": 16,
+    "name": "Cinematic Wedding Films",
+    "category": "videography",
+    "description": "Breathtaking cinematic wedding films shot on RED/Sony FX Cine cameras, featuring high-fidelity sound design.",
+    "features": ["Sony FX6/FX3 Cinema Cameras", "1 Senior Director & Cinematographer", "3-5 Minute Cinematic Highlight Film", "25-30 Minute Documentary Feature Film", "Same-Day Edit Teaser (1 Minute)"],
+    "startingPrice": 125000,
+    "icon": "Film",
+    "image": "https://images.unsplash.com/photo-1519741497674-611481863552?w=600&q=80"
+  },
+  {
+    "id": 17,
+    "name": "Pre-Wedding Cinematic Reels",
+    "category": "videography",
+    "description": "Stylized, romantic video songs and instagram reels shot at spectacular scenic destination locations.",
+    "features": ["4K HDR Cinematic Output", "Concept Scriptwriting & Direction", "Drone Aerial Video Footage", "Custom Color Graded Cinematic Output"],
+    "startingPrice": 50000,
+    "icon": "Video",
+    "image": "https://images.unsplash.com/photo-1464366400600-7168b8af9bc3?w=600&q=80"
+  },
+  {
+    "id": 18,
+    "name": "Commercial Brand Ads",
+    "category": "videography",
+    "description": "Creative broadcast ads, brand story films, and premium promotional campaigns for digital and TV.",
+    "features": ["Creative Concept & Scripting", "Pro Voiceover & Custom Music Licensing", "4K Red Komodo / Sony FX6 Setup", "VFX & Sound Design Included", "Commercial Usage Rights"],
+    "startingPrice": 150000,
+    "icon": "Tv",
+    "image": "https://images.unsplash.com/photo-1555215695-3004980ad54e?w=600&q=80"
+  },
+  {
+    "id": 19,
+    "name": "Drone Cinematography",
+    "category": "videography",
+    "description": "Breath-taking aerial sequences and dynamic FPV drone footage for films, estates, and events.",
+    "features": ["DJI Inspire 3 / FPV Drone Setup", "4K 60FPS Prores Video Output", "Fully Insured Operations & Permissions", "Expert Cinematic Flight Paths"],
+    "startingPrice": 40000,
+    "icon": "Wind",
+    "image": "https://images.unsplash.com/photo-1508672019048-805c876b67e2?w=600&q=80"
+  },
+  {
+    "id": 20,
+    "name": "Corporate Promos & Films",
+    "category": "videography",
+    "description": "High-impact corporate documentaries, factory walk-throughs, and recruitment brand videos.",
+    "features": ["Multi-location Shoot Support", "Executive Interview Lighting & Audio", "Custom Infographics & Text Graphics", "Digital Delivery within 7 days"],
+    "startingPrice": 80000,
+    "icon": "Briefcase",
+    "image": "https://images.unsplash.com/photo-1511578314322-379afb476865?w=600&q=80"
+  },
+  {
+    "id": 21,
+    "name": "Music Video Production",
+    "category": "videography",
+    "description": "Full-scale music video production for independent artists and labels, with focus on creative mood and lighting.",
+    "features": ["Concept & Location Scouting", "Choreography & Actor Coordination Support", "Advanced Post-Production Easing & FX", "Artist Social Media Cutdowns"],
+    "startingPrice": 100000,
+    "icon": "Music",
+    "image": "https://images.unsplash.com/photo-1511671782779-c97d3d27a1d4?w=600&q=80"
+  },
+  {
+    "id": 22,
+    "name": "Documentaries & Short Films",
+    "category": "videography",
+    "description": "Independent documentaries and narrative short films showcasing powerful human stories and social issues.",
+    "features": ["Screenwriting & Storyboarding", "On-location Audio Capture & Foley", "Film Festival Grade Color Grading", "Subtitling & Translation Packages"],
+    "startingPrice": 120000,
+    "icon": "Award",
+    "image": "https://images.unsplash.com/photo-1505686994434-e3cc5abf1330?w=600&q=80"
+  },
+  {
+    "id": 23,
+    "name": "Product Cinematic Videos",
+    "category": "videography",
+    "description": "Dynamic product promo videos highlighting materials, water resistance, and luxury design details.",
+    "features": ["Motorized Slider & Robotic Arms Support", "Liquid Motion & Particle Effects", "Custom Sound Design & Foley", "Social Media Aspect Ratios (9:16, 1:1)"],
+    "startingPrice": 50000,
+    "icon": "Package",
+    "image": "https://images.unsplash.com/photo-1546868871-7041f2a55e12?w=600&q=80"
+  },
+  {
+    "id": 24,
+    "name": "Social Media Reels & Content",
+    "category": "videography",
+    "description": "Short-form vertical videos optimized for Instagram Reels, TikTok, and YouTube Shorts to maximize virality.",
+    "features": ["Fast Editing & Hook Setup", "Dynamic Captions & Auto Sync Music", "Batch Content Shoot Days", "Trending Audio Alignments"],
+    "startingPrice": 25000,
+    "icon": "Smartphone",
+    "image": "https://images.unsplash.com/photo-1606216794074-735e91aa2c92?w=600&q=80"
+  },
+  {
+    "id": 25,
+    "name": "Real Estate Luxury Tours",
+    "category": "videography",
+    "description": "Smooth walkthrough videos showcasing luxury property layouts, scale, and high-end finishes.",
+    "features": ["3 Axis Gimbal Smooth Walkthroughs", "FPV Drone Indoor Flythroughs", "Twilight Exterior Transitions", "Call-out Motion Graphic Labels"],
+    "startingPrice": 60000,
+    "icon": "Home",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=600&q=80"
+  },
+  {
+    "id": 26,
+    "name": "Automobile Cinematic Promos",
+    "category": "videography",
+    "description": "Dynamic rolling video tracking shots of supercars, bikes, and luxury vehicles.",
+    "features": ["Car-to-Car Video Rig Setup", "High Speed Action Action Shots", "Exhaust Sound Design Boost", "Promotional Editing Styles"],
+    "startingPrice": 75000,
+    "icon": "Car",
+    "image": "https://images.unsplash.com/photo-1555215695-3004980ad54e?w=600&q=80"
+  },
+  {
+    "id": 27,
+    "name": "Concert & Live Performance",
+    "category": "videography",
+    "description": "Multi-camera live music concert coverage, festivals, and theatrical performance video recordings.",
+    "features": ["Up to 4 Camera Angles", "Direct Soundboard Audio Mastering", "Stage Backlighting Contrast Grade", "Live Stream Feed Integration Support"],
+    "startingPrice": 90000,
+    "icon": "Mic",
+    "image": "https://images.unsplash.com/photo-1511578314322-379afb476865?w=600&q=80"
+  },
+  {
+    "id": 28,
+    "name": "Hotel & Resort Promo Films",
+    "category": "videography",
+    "description": "Cinematic visual tour stories highlighting resort amenities, hospitality, fine dining, and rooms.",
+    "features": ["Resort Lifestyle Cinematography", "Day-to-Night Transition Sequences", "Recreational Activities Highlights", "Multi-lingual Voiceover Tracks"],
+    "startingPrice": 100000,
+    "icon": "Compass",
+    "image": "https://images.unsplash.com/photo-1540541338287-41700207dee6?w=600&q=80"
+  },
+  {
+    "id": 29,
+    "name": "Podcast Video Recording",
+    "category": "videography",
+    "description": "High-quality multi-camera podcast filming, studio lighting, and audio setup with rapid social cuts.",
+    "features": ["3 Camera Angle Setup", "Studio Lighting and Acoustic Microphones", "Podcast Audio Mastering", "Short Social Clip Highlights (10 Items)"],
+    "startingPrice": 30000,
+    "icon": "Volume2",
+    "image": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?w=600&q=80"
+  },
+  {
+    "id": 30,
+    "name": "Educational & Training Videos",
+    "category": "videography",
+    "description": "Professional training tutorials, masterclass videos, and corporate educational content.",
+    "features": ["Teleprompter System Support", "Presentation & Slide Overlay Integration", "Engaging Interactive Graphics", "Organized Module Video Chapters"],
+    "startingPrice": 45000,
+    "icon": "BookOpen",
+    "image": "https://images.unsplash.com/photo-1515187029135-18ee286d815b?w=600&q=80"
+  }
+]

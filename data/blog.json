@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "title": "Sony FX6 vs. Sony FX3: Which Cine Camera to Choose?",
+    "slug": "sony-fx6-vs-fx3-cine-camera-comparison",
+    "excerpt": "A deep technical comparison between Sony's two most popular Cinema Line cameras, focusing on form factor, dynamic range, sync timecode, and project suitability.",
+    "category": "Camera Reviews",
+    "image": "https://images.unsplash.com/photo-1617005082133-548c4dd27f35?w=600&q=80",
+    "author": "Nitin Kewat",
+    "date": "2024-11-15",
+    "readTime": "6 min read",
+    "tags": ["Sony FX6", "Sony FX3", "Gear Review", "Cinematography"]
+  },
+  {
+    "id": 2,
+    "title": "5 Lighting Setup Tips for Moody Fashion Portraits",
+    "slug": "5-lighting-setup-tips-moody-fashion-portraits",
+    "excerpt": "Learn how to use key, rim, and fill lights with modifiers like beauty dishes and softboxes to create high-contrast, dramatic fashion portraits.",
+    "category": "Lighting Tips",
+    "image": "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?w=600&q=80",
+    "author": "Nitin Kewat",
+    "date": "2024-10-22",
+    "readTime": "5 min read",
+    "tags": ["Lighting", "Studio Portrait", "Fashion Photography"]
+  },
+  {
+    "id": 3,
+    "title": "A Cinematic Wedding Film Editing Workflow Guide",
+    "slug": "cinematic-wedding-film-editing-workflow-guide",
+    "excerpt": "A step-by-step post-production walkthrough showing how to organize footage, sync audio, edit the narrative story, and design immersive foley soundscapes.",
+    "category": "Editing Tutorials",
+    "image": "https://images.unsplash.com/photo-1505686994434-e3cc5abf1330?w=600&q=80",
+    "author": "Nitin Kewat",
+    "date": "2024-09-18",
+    "readTime": "8 min read",
+    "tags": ["Video Editing", "Wedding Film", "Workflow", "Premiere Pro"]
+  },
+  {
+    "id": 4,
+    "title": "Chasing Golden Hour: My Travel Journey in Switzerland",
+    "slug": "chasing-golden-hour-travel-journey-switzerland",
+    "excerpt": "An essay on scouting locations, managing cold weather battery drain, and capturing mountain lake reflections in Zermatt and Lauterbrunnen.",
+    "category": "Travel Stories",
+    "image": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?w=600&q=80",
+    "author": "Nitin Kewat",
+    "date": "2024-08-05",
+    "readTime": "7 min read",
+    "tags": ["Travel Photography", "Switzerland", "Landscape", "Behind The Lens"]
+  },
+  {
+    "id": 5,
+    "title": "The Ultimate Wedding Photography Timeline Checklist",
+    "slug": "ultimate-wedding-photography-timeline-checklist",
+    "excerpt": "How to plan shots for getting ready, the first look, family formals, and late-night reception events without rushing the couple.",
+    "category": "Wedding Guides",
+    "image": "https://images.unsplash.com/photo-1519741497674-611481863552?w=600&q=80",
+    "author": "Nitin Kewat",
+    "date": "2024-07-12",
+    "readTime": "6 min read",
+    "tags": ["Wedding Photography", "Planning", "Guide", "Bridal Portrait"]
+  },
+  {
+    "id": 6,
+    "title": "Color Grading Log Video: S-Log3 and REDCODE RAW",
+    "slug": "color-grading-log-video-slog3-redcode-raw",
+    "excerpt": "Understanding LUTs vs. manual grading, correcting exposure offsets, color space transforms, and color-matching multi-camera footage in DaVinci Resolve.",
+    "category": "Color Grading",
+    "image": "https://images.unsplash.com/photo-1606216794074-735e91aa2c92?w=600&q=80",
+    "author": "Nitin Kewat",
+    "date": "2024-06-25",
+    "readTime": "9 min read",
+    "tags": ["DaVinci Resolve", "Color Grading", "Log Footage", "Post Production"]
+  },
+  {
+    "id": 7,
+    "title": "Behind the Scenes of a Luxury Car Print Campaign",
+    "slug": "behind-the-scenes-luxury-car-print-campaign",
+    "excerpt": "How we rigged cameras to a tracking pursuit car to capture dynamic, tack-sharp motion blur rolling shots of the BMW X5 at sunrise.",
+    "category": "Behind the Scenes",
+    "image": "https://images.unsplash.com/photo-1555215695-3004980ad54e?w=600&q=80",
+    "author": "Nitin Kewat",
+    "date": "2024-05-14",
+    "readTime": "5 min read",
+    "tags": ["Automobile Photography", "Behind The Scenes", "Sony GM", "Rig Shots"]
+  },
+  {
+    "id": 8,
+    "title": "Drone Laws & Permits in India: What You Need to Know",
+    "slug": "drone-laws-permits-india-guide",
+    "excerpt": "A complete breakdown of DGCA Digital Sky rules, green zone classifications, nano vs. micro drone permits, and local administrative permissions.",
+    "category": "Drone Tips",
+    "image": "https://images.unsplash.com/photo-1508672019048-805c876b67e2?w=600&q=80",
+    "author": "Nitin Kewat",
+    "date": "2024-04-03",
+    "readTime": "7 min read",
+    "tags": ["Drone", "DGCA India", "Permit Guide", "Aerial Cinematography"]
+  },
+  {
+    "id": 9,
+    "title": "Sony 50mm f/1.2 G Master Lens: 6-Month Review",
+    "slug": "sony-50mm-f12-g-master-lens-review",
+    "excerpt": "A detailed review of Sony's fastest 50mm lens. Read our findings on chromatic aberration control, autofocus speed, flare resistance, and weight.",
+    "category": "Lens Reviews",
+    "image": "https://images.unsplash.com/photo-1617005082133-548c4dd27f35?w=600&q=80",
+    "author": "Nitin Kewat",
+    "date": "2024-03-08",
+    "readTime": "5 min read",
+    "tags": ["G Master", "Sony FE Lenses", "Lens Review", "Portrait Gear"]
+  },
+  {
+    "id": 10,
+    "title": "Macro Photography: Capturing the Invisible Worlds",
+    "slug": "macro-photography-capturing-invisible-worlds",
+    "excerpt": "Learn advanced macro photography focus stacking, diffuser lighting designs, and selecting the right reproduction ratio lens.",
+    "category": "Photography Tips",
+    "image": "https://images.unsplash.com/photo-1545239351-ef35f43d514b?w=600&q=80",
+    "author": "Nitin Kewat",
+    "date": "2024-02-18",
+    "readTime": "6 min read",
+    "tags": ["Macro Photography", "Focus Stacking", "Close Up Gear"]
+  }
+]

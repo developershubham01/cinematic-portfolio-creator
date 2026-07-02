@@ -1,0 +1,41 @@
+{
+  "name": "Nitin Kewat",
+  "title": "Professional Photographer & Cinematic Videographer",
+  "tagline": "Capturing Emotions. Creating Stories. Preserving Memories.",
+  "bio": "With over a decade of experience in professional photography and cinematic videography, I have dedicated my life to capturing the most precious moments and transforming them into timeless visual stories. From the bustling streets of Mumbai to the serene landscapes of the Swiss Alps, my lens has traveled across 30+ countries, documenting love stories, corporate milestones, and breathtaking landscapes.",
+  "mission": "To create visual masterpieces that transcend time, evoking emotions and preserving memories for generations to come.",
+  "vision": "To be recognized as a world-class visual storyteller, pushing the boundaries of photography and cinematography through innovation, creativity, and an unwavering commitment to excellence.",
+  "values": ["Excellence", "Creativity", "Authenticity", "Innovation", "Client-First Approach"],
+  "journey": "Started as a self-taught photographer in 2014, I quickly evolved from capturing local events to shooting international weddings and commercial campaigns. My work has been featured in Vogue India, National Geographic Traveller, and Wedding Sutra. I am a certified Sony Alpha Creator, Canon Ambassador, and DJI-certified drone pilot.",
+  "whyChooseMe": [
+    "Award-winning photographer with 25+ international awards",
+    "10+ years of professional experience across 30+ countries",
+    "Premium cinematic equipment worth ₹50 Lakhs+",
+    "Dedicated team of 8 creative professionals",
+    "Same-day editing highlights for weddings",
+    "Insured and legally compliant drone operations"
+  ],
+  "stats": {
+    "yearsExperience": 10,
+    "photoshoots": 1500,
+    "weddingFilms": 350,
+    "commercialProjects": 500,
+    "happyClients": 250,
+    "awards": 25,
+    "countriesWorked": 30,
+    "viewsGenerated": "10M+"
+  },
+  "awards": [
+    { "title": "Best Wedding Photographer 2024", "org": "International Photography Awards", "year": 2024 },
+    { "title": "Best Cinematographer", "org": "Wedding Film Awards", "year": 2023 },
+    { "title": "Sony Alpha Creator", "org": "Sony India", "year": 2022 },
+    { "title": "Canon Ambassador", "org": "Canon India", "year": 2023 },
+    { "title": "National Geographic Feature", "org": "National Geographic Traveller", "year": 2023 },
+    { "title": "Best Drone Cinematography", "org": "DJI Awards", "year": 2024 },
+    { "title": "Wedding Photographer of the Year", "org": "WPAI", "year": 2024 },
+    { "title": "Drone Pilot Certification", "org": "DGCA India", "year": 2021 }
+  ],
+  "brands": ["Apple", "Google", "Canon", "Sony", "DJI", "BMW", "Mercedes-Benz", "Nike", "Adidas", "Puma", "Taj Hotels", "Marriott", "Hyatt", "Tanishq", "Sabyasachi"],
+  "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&q=80",
+  "heroImage": "https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?w=1920&q=80"
+}

@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "name": "Sony FX6",
+    "category": "Cameras",
+    "brand": "Sony",
+    "specs": "Full-frame 10.2MP Cine Camera, 4K 120p, Dual Base ISO 800/12800, 15+ stops dynamic range, S-Cinetone.",
+    "image": "https://images.unsplash.com/photo-1617005082133-548c4dd27f35?w=600&q=80",
+    "flagship": true
+  },
+  {
+    "id": 2,
+    "name": "Sony FX3",
+    "category": "Cameras",
+    "brand": "Sony",
+    "specs": "Full-frame 12.1MP compact Cine Camera, active cooling, 5-axis IBIS, 4K 120p, S-Log3, ideal for gimbal setups.",
+    "image": "https://images.unsplash.com/photo-1619961313759-a686a6094488?w=600&q=80",
+    "flagship": true
+  },
+  {
+    "id": 3,
+    "name": "RED Komodo 6K",
+    "category": "Cameras",
+    "brand": "RED",
+    "specs": "Super 35 19.9MP Global Shutter Sensor, 6K RAW at 40fps, REDCODE RAW, ultra-compact form factor.",
+    "image": "https://images.unsplash.com/photo-1492691527719-9d1e07e534b4?w=600&q=80",
+    "flagship": true
+  },
+  {
+    "id": 4,
+    "name": "Canon EOS R5",
+    "category": "Cameras",
+    "brand": "Canon",
+    "specs": "Full-frame 45MP Mirrorless, 8K RAW video, 20fps continuous shooting, Dual Pixel CMOS AF II.",
+    "image": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?w=600&q=80",
+    "flagship": false
+  },
+  {
+    "id": 5,
+    "name": "Sony A7S III",
+    "category": "Cameras",
+    "brand": "Sony",
+    "specs": "Full-frame 12.1MP, low-light monster, 4K 120p 10-bit 4:2:2 internal, 240fps HD, dual card slots.",
+    "image": "https://images.unsplash.com/photo-1620662057989-ee0dc27495b5?w=600&q=80",
+    "flagship": false
+  },
+  {
+    "id": 6,
+    "name": "DJI Inspire 3",
+    "category": "Drones",
+    "brand": "DJI",
+    "specs": "Full-frame 8K ProRes RAW / CinemaDNG aerial drone, dual-operator support, centimetric RTK positioning.",
+    "image": "https://images.unsplash.com/photo-1508672019048-805c876b67e2?w=600&q=80",
+    "flagship": true
+  },
+  {
+    "id": 7,
+    "name": "DJI Mavic 4 Pro",
+    "category": "Drones",
+    "brand": "DJI",
+    "specs": "Triple-camera drone, Hasselblad main sensor, 4K 120fps cinematic video, 45 mins flight time.",
+    "image": "https://images.unsplash.com/photo-1473448912268-2022ce9509d8?w=600&q=80",
+    "flagship": false
+  },
+  {
+    "id": 8,
+    "name": "Sony FE 50mm f/1.2 GM",
+    "category": "Lenses",
+    "brand": "Sony",
+    "specs": "Extreme sharpness, ultra-shallow depth of field, dual XD linear motors, gorgeous circular bokeh.",
+    "image": "https://images.unsplash.com/photo-1617005082133-548c4dd27f35?w=600&q=80",
+    "flagship": true
+  },
+  {
+    "id": 9,
+    "name": "Sony FE 24-70mm f/2.8 GM II",
+    "category": "Lenses",
+    "brand": "Sony",
+    "specs": "Standard zoom lens, ultra-sharp G Master glass, lightweight design, fast tracking autofocus.",
+    "image": "https://images.unsplash.com/photo-1617005082133-548c4dd27f35?w=600&q=80",
+    "flagship": false
+  },
+  {
+    "id": 10,
+    "name": "Sony FE 70-200mm f/2.8 GM OSS II",
+    "category": "Lenses",
+    "brand": "Sony",
+    "specs": "Telephoto zoom, optical stabilization, extremely fast AF, dust/moisture resistant construction.",
+    "image": "https://images.unsplash.com/photo-1617005082133-548c4dd27f35?w=600&q=80",
+    "flagship": false
+  },
+  {
+    "id": 11,
+    "name": "Aputure 600d Pro",
+    "category": "Lighting",
+    "brand": "Aputure",
+    "specs": "600W daylight COB LED light, weather-resistant, wireless DMX control, intense output (equivalent to 1.2K HMI).",
+    "image": "https://images.unsplash.com/photo-1590073844006-33379778ae09?w=600&q=80",
+    "flagship": true
+  },
+  {
+    "id": 12,
+    "name": "Godox AD600 Pro",
+    "category": "Lighting",
+    "brand": "Godox",
+    "specs": "600Ws outdoor strobe flash, 1/8000s High Speed Sync, 0.9s recycling time, built-in 2.4G wireless system.",
+    "image": "https://images.unsplash.com/photo-1590073844006-33379778ae09?w=600&q=80",
+    "flagship": false
+  },
+  {
+    "id": 13,
+    "name": "Rode Wireless PRO",
+    "category": "Audio",
+    "brand": "Rode",
+    "specs": "Dual-channel compact microphone system, 32-bit float onboard recording, timecode sync, 260m range.",
+    "image": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?w=600&q=80",
+    "flagship": true
+  },
+  {
+    "id": 14,
+    "name": "DJI Mic 2",
+    "category": "Audio",
+    "brand": "DJI",
+    "specs": "Dual-channel TX/RX wireless system, crystal-clear 32-bit float audio, smart noise canceling, touch screen.",
+    "image": "https://images.unsplash.com/photo-1478737270239-2f02b77fc618?w=600&q=80",
+    "flagship": false
+  },
+  {
+    "id": 15,
+    "name": "Mac Studio M2 Ultra",
+    "category": "Editing",
+    "brand": "Apple",
+    "specs": "24-Core CPU, 76-Core GPU, 192GB Unified Memory, 4TB SSD, easily edits multiple streams of 8K ProRes video.",
+    "image": "https://images.unsplash.com/photo-1588508065123-287b28e013da?w=600&q=80",
+    "flagship": true
+  },
+  {
+    "id": 16,
+    "name": "MacBook Pro M4 Max",
+    "category": "Editing",
+    "brand": "Apple",
+    "specs": "16-inch, 16-Core CPU, 40-Core GPU, 128GB Unified Memory, 2TB SSD, high-fidelity liquid retina XDR screen, on-set editing workhorse.",
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=600&q=80",
+    "flagship": false
+  }
+]

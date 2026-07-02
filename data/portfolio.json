@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "title": "A Royal Rajput Wedding",
+    "category": "Wedding",
+    "description": "A magnificent three-day wedding celebration at the Umaid Bhawan Palace, Jodhpur, capturing regal traditions, vibrant colors, and deep emotions.",
+    "image": "https://images.unsplash.com/photo-1519741497674-611481863552?w=1200&q=80",
+    "tags": ["Royal Wedding", "Palace Shoot", "Candid", "Traditional"],
+    "date": "2024-11-12",
+    "featured": true
+  },
+  {
+    "id": 2,
+    "title": "Neon Dreams: Tokyo Street Style",
+    "category": "Fashion",
+    "description": "An editorial fashion series shot in the neon-lit alleys of Shinjuku, showcasing avant-garde street style and dynamic urban lighting.",
+    "image": "https://images.unsplash.com/photo-1509631179647-0177331693ae?w=1200&q=80",
+    "tags": ["Street Fashion", "Tokyo", "Neon Lights", "Night shoot"],
+    "date": "2024-10-05",
+    "featured": true
+  },
+  {
+    "id": 3,
+    "title": "Majesty of Maasai Mara",
+    "category": "Wildlife",
+    "description": "A wildlife documentary capture showing the raw intensity of the Great Migration and the majestic apex predators of Kenya.",
+    "image": "https://images.unsplash.com/photo-1547471080-7cc2caa01a7e?w=1200&q=80",
+    "tags": ["Wildlife", "Kenya", "Safari", "Fine Art"],
+    "date": "2024-08-20",
+    "featured": true
+  },
+  {
+    "id": 4,
+    "title": "The Swiss Escape",
+    "category": "Travel",
+    "description": "A breathtaking cinematic travel film capturing the majestic snow peaks, mirror-like lakes, and peaceful towns of Switzerland.",
+    "image": "https://images.unsplash.com/photo-1476514525535-07fb3b4ae5f1?w=1200&q=80",
+    "tags": ["Travel", "Switzerland", "Landscape", "Drone"],
+    "date": "2024-09-15",
+    "featured": true
+  },
+  {
+    "id": 5,
+    "title": "BMW X5: Unleash the Beast",
+    "category": "Commercial",
+    "description": "A commercial print and video campaign for BMW India, highlighting the powerful performance and luxury details of the X5 SUV.",
+    "image": "https://images.unsplash.com/photo-1555215695-3004980ad54e?w=1200&q=80",
+    "tags": ["Automobile", "BMW", "Commercial", "Studio Lighting"],
+    "date": "2024-07-30",
+    "featured": true
+  },
+  {
+    "id": 6,
+    "title": "Love in Amalfi",
+    "category": "Pre Wedding",
+    "description": "A romantic pre-wedding series shot along the stunning coastal cliffs and colorful villages of the Amalfi Coast, Italy.",
+    "image": "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?w=1200&q=80",
+    "tags": ["Pre Wedding", "Amalfi", "Destination", "Sunset"],
+    "date": "2024-06-18",
+    "featured": false
+  },
+  {
+    "id": 7,
+    "title": "Minimalist Spaces: The Villa",
+    "category": "Architecture",
+    "description": "An architectural and interior shoot focusing on minimalist luxury design, natural light play, and clean geometry in Alibaug.",
+    "image": "https://images.unsplash.com/photo-1600585154340-be6161a56a0c?w=1200&q=80",
+    "tags": ["Architecture", "Interior", "Minimalist", "Real Estate"],
+    "date": "2024-05-24",
+    "featured": false
+  },
+  {
+    "id": 8,
+    "title": "Golden Hour Portraits",
+    "category": "Portrait",
+    "description": "A series of high-fashion outdoor portraits focusing on natural light, skin texture, and expressive emotions during golden hour.",
+    "image": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=1200&q=80",
+    "tags": ["Portrait", "Golden Hour", "Natural Light", "Sony GM"],
+    "date": "2024-04-12",
+    "featured": false
+  },
+  {
+    "id": 9,
+    "title": "Apple Watch: Precision & Performance",
+    "category": "Product",
+    "description": "High-end commercial product photography showcasing the sleek design, premium materials, and display of the Apple Watch.",
+    "image": "https://images.unsplash.com/photo-1546868871-7041f2a55e12?w=1200&q=80",
+    "tags": ["Product", "Apple", "Studio", "Macro"],
+    "date": "2024-03-08",
+    "featured": true
+  },
+  {
+    "id": 10,
+    "title": "The Golden Temple at Dusk",
+    "category": "Landscape",
+    "description": "A serene, high-exposure landscape shot capturing the spiritual beauty and shimmering reflection of the Golden Temple, Amritsar.",
+    "image": "https://images.unsplash.com/photo-1588598126702-86927a4d5cfb?w=1200&q=80",
+    "tags": ["Landscape", "Amritsar", "Long Exposure", "Heritage"],
+    "date": "2024-02-15",
+    "featured": false
+  },
+  {
+    "id": 11,
+    "title": "Vogue Cover Story",
+    "category": "Fashion",
+    "description": "High-fashion editorial shot inside a heritage palace in Rajasthan, combining traditional luxury attire with modern aesthetics.",
+    "image": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?w=1200&q=80",
+    "tags": ["Fashion", "Vogue", "Editorial", "Rajasthan"],
+    "date": "2024-01-22",
+    "featured": true
+  },
+  {
+    "id": 12,
+    "title": "DJI Air: Cinematic Flight",
+    "category": "Drone",
+    "description": "A collection of top-down aerial shots showing the raw coastline of Goa, creating abstract patterns of ocean waves and sand.",
+    "image": "https://images.unsplash.com/photo-1508672019048-805c876b67e2?w=1200&q=80",
+    "tags": ["Drone", "Aerial", "Coastal", "DJI Inspire"],
+    "date": "2023-12-05",
+    "featured": false
+  },
+  {
+    "id": 13,
+    "title": "A Parisian Romance",
+    "category": "Pre Wedding",
+    "description": "An intimate and classic pre-wedding shoot set in Paris, featuring the Eiffel Tower, Seine River, and quaint Parisian cafés.",
+    "image": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?w=1200&q=80",
+    "tags": ["Pre Wedding", "Paris", "Destination", "Romantic"],
+    "date": "2023-11-18",
+    "featured": false
+  },
+  {
+    "id": 14,
+    "title": "Gourmet Gastronomy",
+    "category": "Food",
+    "description": "Fine-dining food photography capturing detailed textures, steam, and rich colors of contemporary Indian cuisine.",
+    "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=1200&q=80",
+    "tags": ["Food", "Fine Dining", "Commercial", "Macro"],
+    "date": "2023-10-10",
+    "featured": false
+  },
+  {
+    "id": 15,
+    "title": "The Tech Summit 2023",
+    "category": "Corporate",
+    "description": "Comprehensive event coverage for a global technology conference, focusing on keynote speakers, networking, and candid moments.",
+    "image": "https://images.unsplash.com/photo-1511578314322-379afb476865?w=1200&q=80",
+    "tags": ["Corporate", "Conference", "Keynote", "Event"],
+    "date": "2023-09-22",
+    "featured": false
+  },
+  {
+    "id": 16,
+    "title": "Midnight Reflections: Mumbai",
+    "category": "Night",
+    "description": "A collection of long-exposure night shots of the Bandra-Worli Sea Link, capturing the trail of car lights against Mumbai's skyline.",
+    "image": "https://images.unsplash.com/photo-1566552881560-0be862a7c445?w=1200&q=80",
+    "tags": ["Night", "Mumbai", "Sea Link", "Long Exposure"],
+    "date": "2023-08-04",
+    "featured": false
+  },
+  {
+    "id": 17,
+    "title": "Water Droplets: Macro",
+    "category": "Macro",
+    "description": "Stunning macro photography capturing the intricate refraction of flowers inside morning dew droplets on a leaf.",
+    "image": "https://images.unsplash.com/photo-1545239351-ef35f43d514b?w=1200&q=80",
+    "tags": ["Macro", "Nature", "Refraction", "Extreme CloseUp"],
+    "date": "2023-07-15",
+    "featured": false
+  },
+  {
+    "id": 18,
+    "title": "Monochrome Portraits",
+    "category": "Black & White",
+    "description": "High-contrast black and white portrait session focusing on shadow play, emotional depth, and raw facial features.",
+    "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=1200&q=80",
+    "tags": ["Black & White", "Portrait", "Shadows", "Studio"],
+    "date": "2023-06-20",
+    "featured": false
+  },
+  {
+    "id": 19,
+    "title": "Tanishq: Golden Heritage",
+    "category": "Jewelry",
+    "description": "Commercial product photoshoot for Tanishq's bridal collection, highlighting complex designs, gold lustre, and gemstones.",
+    "image": "https://images.unsplash.com/photo-1515562141207-7a88fb7ce338?w=1200&q=80",
+    "tags": ["Jewelry", "Tanishq", "Bridal", "Studio Product"],
+    "date": "2023-05-14",
+    "featured": true
+  },
+  {
+    "id": 20,
+    "title": "The Himalayan Range",
+    "category": "Nature",
+    "description": "A panoramic landscape showing the sun rising over the snow-capped Himalayan peaks of Ladakh, shot from 15,000 feet.",
+    "image": "https://images.unsplash.com/photo-1544735716-392fe2489ffa?w=1200&q=80",
+    "tags": ["Nature", "Himalayas", "Ladakh", "Sunrise"],
+    "date": "2023-04-02",
+    "featured": true
+  }
+]
